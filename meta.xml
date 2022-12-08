@@ -1,0 +1,23 @@
+<meta>
+	<info author="Casti" type="script" name="JailSystem" />
+	<script src="ui.lua" type="client" cache="false" />
+
+	<script src="ayarlar.lua" type="shared" cache="false" />
+	<script src="g_JailSystem.lua" type="server" />
+
+	<script src="c_JailSystem.lua" type="client" cache="false" />
+	<script src="s_JailSystem.lua" type="server" />
+
+	<!-- Files -->
+	<file src="lib/beyaz.png" />
+	<file src="lib/font.ttf" />
+	<file src="lib/calibri.ttf" />
+	<file src="lib/beyaz.dds" />
+	<file src="lib/kapaticon.dds" />
+	<file src="lib/kutu.dds" />
+	<file src="lib/radiobos.dds" />
+	<file src="lib/radiodolu.dds" />
+	<file src="lib/buton.dds" />
+	<file src="lib/round.dds" />
+	<file src="lib/grandiet.dds" />
+</meta>
